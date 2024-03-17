@@ -8,7 +8,7 @@ def getHoursMinutesSeconds(totalSeconds):
         totalSeconds (integer): number of seconds to convert.
 
     Returns:
-        Time in Hours, Minutes, Seconds 
+        Time in Hours, Minutes, Seconds (str) : '0s', '4h 6m 2s', '1h 4m'
 
     """
 
