@@ -3,13 +3,13 @@ from morsewc import EnglishMessage, MorseMessage
 # Create string to be tested
 message_string = "hello everyone"
 
-# Initialise message object
+# Initialise message instance
 message = EnglishMessage(message_string)
 
 # Encodes message to morse
 code_string = message.encode()
 
-# Initalise code object
+# Initalise code instance
 code = MorseMessage(code_string)
 
 # Decodes code to english
