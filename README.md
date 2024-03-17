@@ -9,3 +9,6 @@ morsewc:
 
 Hours, Minutes, Seconds:
 - converts time in seconds format into an Hours, Minutes, Seconds format
+
+Find and Replace:
+- Searches through text and replaces any instances of oldText with newText.
